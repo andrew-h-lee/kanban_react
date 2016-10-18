@@ -6,10 +6,6 @@
     "start": "webpack-dev-server --progress",
     "build": "NODE_ENV=production webpack -p --progress --colors"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/andrew-h-lee/kanban_react.git"
-  },
   "author": "Andrew H. Lee",
   "license": "ISC",
   "dependencies": {
