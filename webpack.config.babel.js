@@ -1,4 +1,4 @@
- const webpack = require('webpack');
+import webpack from 'webpack';
 /*
  * Default webpack configuration for development
  */
@@ -26,7 +26,6 @@ const config = {
     inline: true
   },
 };
-
 /*
  * If bundling for production, optimize output
  */
@@ -40,4 +39,4 @@ if (process.env.NODE_ENV === 'production') {
     })
   ];
 }
-module.exports = config;
+export default config;
