@@ -1,5 +1,4 @@
-import webpack from 'webpack';
-
+ const webpack = require('webpack');
 /*
  * Default webpack configuration for development
  */
@@ -41,4 +40,4 @@ if (process.env.NODE_ENV === 'production') {
     })
   ];
 }
-export default config;
+module.exports = config;
