@@ -1,7 +1,7 @@
 {
   "name": "kanban_react",
   "version": "1.0.0",
-  "description": "Kanban-style Board tool used For Project Management (Agile Methodology).",
+  "description": "Kanban-style Board tool used For Project Management.",
   "scripts": {
     "start": "webpack-dev-server --progress",
     "build": "NODE_ENV=production webpack -p --progress --colors"
