@@ -6,14 +6,14 @@ let cardsList = [
   {
     id: 1,
     title: "Make a Porfolio",
-    desciption: "Devise a Portfolio to showcase work",
+    description: "Devise a Portfolio to showcase work",
     status: "in-progress",
     tasks: []
   },
   {
     id: 2,
     title: "Write some Code",
-    desciption: "Coding along with accompanied Book",
+    description: "Coding along with supplementary Book",
     status: "todo",
     tasks: [
       {
