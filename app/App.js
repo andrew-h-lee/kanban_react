@@ -7,6 +7,7 @@ let cardsList = [
     id: 1,
     title: "Make a Porfolio",
     description: "Devise a **Portfolio** to showcase work",
+    color: '#ffd206',
     status: "in-progress",
     tasks: []
   },
@@ -14,6 +15,7 @@ let cardsList = [
     id: 2,
     title: "Write some Code",
     description: "Coding along with supplementary Book. The complete source can be found at [github](https://github.com/FrontendMasters/react-enlightenment)",
+    color: '#0d871b',
     status: "todo",
     tasks: [
       {
