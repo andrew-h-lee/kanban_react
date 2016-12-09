@@ -4,7 +4,7 @@
 Kanban-style Board tool used For Agile Project Management.
 
 ## Screenshots
-[Behance Screenshots](https://www.behance.net/andrew-h-lee)
+[Behance Screenshots](https://www.behance.net/gallery/46203375/Kanban-React)
 
 ## Prerequisites/Tools Used
 * React.js
